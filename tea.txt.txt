@@ -1,1 +1,2 @@
-This is tea
+This is tea,
+and it is a morning tea
